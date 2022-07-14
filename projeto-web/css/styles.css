@@ -1,0 +1,21 @@
+body {
+    background-color:orange;
+    margin: 50px;
+    text-align: center;
+}
+
+button {
+    border: none;
+    border-radius: 50px; 
+    background: #fff; 
+    color: orangered; 
+    padding: 20px; 
+    font: bold 15px Georgia; 
+    text-transform: uppercase;
+}
+
+h1 {
+    color:rgb(10, 76, 107); 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
